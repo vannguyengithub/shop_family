@@ -90,7 +90,7 @@
     @keyframes mobileSearchSideIn {
         from {
             opacity: 0;
-            top: clac(var(--header-height) / 2);
+            top: calc(var(--header-height) / 2);
         }
         to {
             opacity: 1;
